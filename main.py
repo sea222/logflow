@@ -1,4 +1,4 @@
-"""Main uc is yapar: argumanlari oku, hatti kur, run() cagir."""
+"""Mainn uc is yapar: argumanlari oku, hatti kur, run() cagir."""
 import sys
 
 from logflow.console_sink import ConsoleSink
